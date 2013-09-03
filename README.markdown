@@ -1,5 +1,6 @@
 # KRL Online
 
+[![Build Status](https://secure.travis-ci.org/jefrip/KRLOnline.png)](http://travis-ci.org/jefrip/KRLOnline)
 
 KRL Online is webservices for viewing KRL position. Using Slim framework (PHP)
 
