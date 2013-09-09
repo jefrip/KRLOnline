@@ -11,6 +11,10 @@ KRL Online is webservices for viewing KRL position. Using Slim framework (PHP)
 * Get Stasiuns (http://localhost/krlonline/stasiuns)
 * Get Jadwal (http://localhost/krlonline/jadwal/jak)
 
+* Online Examples 
+  * Get Stasiuns (http://krlonline.ap01.aws.af.cm/stasiuns)
+  * Get Jadwal (http://krlonline.ap01.aws.af.cm/jadwal/jak)
+
 ## Getting Started
 
 ### Install
